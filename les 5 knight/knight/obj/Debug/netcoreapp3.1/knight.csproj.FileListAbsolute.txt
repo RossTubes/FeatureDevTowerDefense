@@ -1,0 +1,12 @@
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.exe
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.deps.json
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.runtimeconfig.json
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.runtimeconfig.dev.json
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.dll
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\bin\Debug\netcoreapp3.1\knight.pdb
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.AssemblyInfoInputs.cache
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.AssemblyInfo.cs
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.csproj.CoreCompileInputs.cache
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.dll
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.pdb
+C:\Users\jorda\..MA\jaar2\periode1\les 5 knight\knight\obj\Debug\netcoreapp3.1\knight.genruntimeconfig.cache
